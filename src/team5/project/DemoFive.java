@@ -1,6 +1,11 @@
 package team5.project;
 
 public class DemoFive {
+	
+	public static void addMeth (String a) {
+		
+		System.out.println ("Vlad's Input...");
+	}
 
 	public static void main(String[] args) {
 
